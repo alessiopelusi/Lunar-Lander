@@ -1,0 +1,4 @@
+gym==0.24.0
+numpy
+tensorflow
+
