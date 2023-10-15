@@ -1,7 +1,5 @@
 # Lunar-Lander
 
-# Deep Q-Learning - Lunar Lander
-
 This project implements the Deep Q-Learning algorithm to train an agent to safely land a lunar lander on a platform on the surface of the moon using the LunarLander simulation environment from OpenAI Gym.
 
 ![lunar_lander](https://github.com/alessiopelusi/Lunar-Lander/assets/130958426/79cb563e-5831-4612-b9fe-e7ce2ed7efa8)
